@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DannyMireles
+- 👀 I’m interested in programming and music
+- 🌱 I’m currently learning Python, C++, C, and working on improving my Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on projects that help others
+- 📫 How to reach me: danielmireles35@gmail.com
